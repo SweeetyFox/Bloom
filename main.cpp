@@ -4,8 +4,6 @@
 #include "Bloom.h"
 
 class UniqCounter {
-    // no more than 32kb of memory should be used here
-
 public:
     void add(int x) {
         bloom.add(x);

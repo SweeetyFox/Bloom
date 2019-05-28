@@ -10,7 +10,7 @@ struct Bloom{
     int get_uniq_num() const;
 
 private:
-    const static uint32_t filter_size = 1024 * 8;
+    const static uint32_t filter_size = 255 * 1024 * 8;
     uint32_t uniq_num = 0;
 
     uint32_t filter[filter_size];
