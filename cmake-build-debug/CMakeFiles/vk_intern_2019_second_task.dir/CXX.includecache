@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/Documents/intership/VK/vk-intern-2019-second-task/Bloom.cpp
+cstdint
+-
+Bloom.h
+/Users/admin/Documents/intership/VK/vk-intern-2019-second-task/Bloom.h
+
+/Users/admin/Documents/intership/VK/vk-intern-2019-second-task/Bloom.h
+
